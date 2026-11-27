@@ -2,7 +2,7 @@ import * as THREE from "three";
 import { OrbitControls } from "three/addons/controls/OrbitControls.js";
 import { GLTFLoader } from "three/addons/loaders/GLTFLoader.js";
 import { RGBELoader } from "three/addons/loaders/RGBELoader.js";
-import GUI from "lil-gui";
+import GUI from "https://cdn.jsdelivr.net/npm/lil-gui@0.19/+esm";
 // IMPORT DU GUI, LE MENU EN HAUT A DROITE //
 
 
